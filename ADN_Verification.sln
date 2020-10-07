@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ADN_Verification", "ADN_Verification.csproj", "{CEE8D621-1C83-45CB-8D23-4C4578911DB9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CEE8D621-1C83-45CB-8D23-4C4578911DB9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CEE8D621-1C83-45CB-8D23-4C4578911DB9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CEE8D621-1C83-45CB-8D23-4C4578911DB9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CEE8D621-1C83-45CB-8D23-4C4578911DB9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9A0CFA00-3872-4626-9DC8-77AEF08881F7}
+	EndGlobalSection
+EndGlobal
